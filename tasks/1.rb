@@ -1,7 +1,7 @@
 require "prime"
 require "awesome_print"
 
-class Do 
+class Do_1 
 
 	def go (arg)
 		array = Range.new(1,arg, true)
@@ -10,4 +10,4 @@ class Do
 	end
 end
 
-#Do.new.go(1000);
+#Do_1.new.go(1000);
